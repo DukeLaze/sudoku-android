@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="pref_lang_options">
+        <item>@string/pref_lang_label_en</item>
+        <item>@string/pref_lang_label_no</item>
+    </array>
+
+    <array name="pref_lang_values">
+        <item>en</item>
+        <item>no</item>
+    </array>
+</resources>

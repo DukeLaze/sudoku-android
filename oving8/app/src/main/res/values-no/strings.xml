@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Awesomium Sudoku</string>
+
+    <string name="btn_play_text">Spill</string>
+    <string name="btn_create_board_text">Lag brett</string>
+
+    <string name="difficulty_word">Vanskelighetsgrad: </string>
+
+    <string name="settings">Innstillinger</string>
+    <string name="how_to_play">Hvordan spiller man?</string>
+
+    <string name="mark_unsure">Marker som usikker</string>
+    <string name="board_full_wrong">Bordet er fylt opp, men du har plassert noe feil!</string>
+    <string name="btn_save_board">Lagre brett</string>
+
+    <string name="choose_difficulty">Velg vanskelighetsgrad</string>
+    <string name="difficulty_easy">Lett</string>
+    <string name="difficulty_medium">Middels</string>
+    <string name="difficulty_hard">Vanskelig</string>
+
+
+    <string name="pref_lang_label_no">Norsk</string>
+    <string name="pref_lang_label_en">Engelsk</string>
+    <string name="change_language">Endre Språk</string>
+
+    <string name="btn_erase">Slett</string>
+    <string name="save_ok">Suksess, det nye brettet ble lagret! Du blir nå tatt tilbake til hovedmenyen.</string>
+    <string name="save_not_ok">Problemer med å lagre brettet. Ta kontakt med utvikleren på konamicode@notfixingit.io.</string>
+
+    <string name="win_message">!!! DU VANT !!!</string>
+</resources>
